@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Site App",
+    "slug": "SiteApp",
+    "extra": {
+      "eas": {
+        "projectId": "a638c964-458c-4156-bec8-ffd5524bf463"
+      }
+    },
+    "android": {
+      "package": "com.anjan9698.siteapp"
+    },
+    "ios": {
+      "bundleIdentifier": "Y"
+    }
+  }
+}
